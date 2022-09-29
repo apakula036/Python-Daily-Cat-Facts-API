@@ -14,8 +14,5 @@ if response.status_code == 200:
     info = data["text"]
 
     print(data)
-    print(data)
-
-    print(data)
 else:
     print("An error occurred.")
